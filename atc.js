@@ -167,7 +167,6 @@ initApp();
 // Check out Button---
 
 checkoutButton.addEventListener('click', () => {
-    alert("Thank you for your purchase! Your order has been successfully placed.");
     clearCart();
 });
 
